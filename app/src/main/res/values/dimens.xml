@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Float Labelled Edit Text -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--Material Text Field -->
+    <dimen name="mtf_cardHeight_initial">1dp</dimen>
+    <dimen name="mtf_cardHeight_final">55dp</dimen>
+    <dimen name="mtf_corner_radius">4dp</dimen>
+</resources>
